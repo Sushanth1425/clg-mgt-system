@@ -1,8 +1,8 @@
 {
+  "homepage": "https://Sushanth1425.github.io/clg-mgt-system",
   "name": "clg-mgt-system",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Sushanth1425.github.io/clg-mgt-system",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
